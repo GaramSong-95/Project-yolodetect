@@ -48,6 +48,16 @@ yolov5n.pt (YOLOv5 Nano) 사전학습 모델을 사용하여 훈련
 
 * 데이터 수집, 라벨링, 포맷 변환, 모델 학습 등 전체 과정을 직접 수행
 
+![PR_curve](https://github.com/user-attachments/assets/f35e9599-4299-4629-9e43-3af71579a861)
+
+
+![train_batch0](https://github.com/user-attachments/assets/9df43752-e6ae-4af6-b9b4-57d62d511213)
+
+
+![val_batch0_labels](https://github.com/user-attachments/assets/1acc7fca-1174-4600-a7ea-2e53dc218267)
+
+
+
 ## 🧠 배운 점
 
 * 라벨링 순서의 일관성이 학습 정확도에 직접적인 영향을 미친다는 점을 경험적으로 학습
