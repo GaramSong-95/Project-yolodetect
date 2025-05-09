@@ -1,0 +1,5 @@
+train: /home/garamsong/workspace/labelme/my_dataset/images/train
+val:   /home/garamsong/workspace/labelme/my_dataset/images/val
+nc: 3
+names: ["ear", "nostrils", "lips"]
+
