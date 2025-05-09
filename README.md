@@ -4,8 +4,11 @@ YOLOv5를 활용한 얼굴 주요 부위 탐지 AI 모델 개발
 
 ## 트레이닝 방법
 데이터셋을 만든 후 labelme에서 원하는 부분 라벨링 후, convert.py로 txt형식으로 변환 이때, 라벨링한 순서대로 classes명 변경 후 변환
+
 split_dataset.py로 데이터셋 경로, 저장할 디렉터리 경로 설정 후 실행하여 yolo 트레이닝 형식에 맞게 분리
+
 train.py로 트레이닝 시작, 이때, data.yaml에서 경로를 split_dataset.py로 저장한 경로로 images,val 설정, name도 라벨링된 순서대로 변경 후 실행
+
 test.py로 캠 테스트, weights 경로 원하는 모델의 경로로 지정
 
 ## 프로젝트 개요
