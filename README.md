@@ -16,6 +16,8 @@ test.py로 캠 테스트, weights 경로 원하는 모델의 경로로 지정
 
 ## 🛠️ 주요 기술 및 도구
 
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/YOLOv5-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="YOLOv5"/> <img src="https://img.shields.io/badge/Labelme-FF6F00?style=for-the-badge&logo=JSON&logoColor=white" alt="Labelme"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> </p>
+
 * YOLOv5 (yolov5n.pt): 경량 모델을 사용하여 빠른 학습과 추론 수행
 
 * Labelme: 이미지 라벨링 툴을 활용하여 귀, 콧구멍, 입술 위치 수작업 라벨링
